@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-Aarya
+## About Me
+
+My name is **Aarya Shah**, and I go to *Bartlett High School*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
